@@ -1,0 +1,1557 @@
+[
+    {
+        "primaryNominees_name": "The Godfather",
+        "isWinner": true,
+        "Year": 1973
+    },
+    {
+        "primaryNominees_name": "Cabaret",
+        "isWinner": false,
+        "Year": 1973
+    },
+    {
+        "primaryNominees_name": "Deliverance",
+        "isWinner": false,
+        "Year": 1973
+    },
+    {
+        "primaryNominees_name": "Sounder",
+        "isWinner": false,
+        "Year": 1973
+    },
+    {
+        "primaryNominees_name": "The Emigrants",
+        "isWinner": false,
+        "Year": 1973
+    },
+    {
+        "primaryNominees_name": "The Sting",
+        "isWinner": true,
+        "Year": 1974
+    },
+    {
+        "primaryNominees_name": "A Touch of Class",
+        "isWinner": false,
+        "Year": 1974
+    },
+    {
+        "primaryNominees_name": "American Graffiti",
+        "isWinner": false,
+        "Year": 1974
+    },
+    {
+        "primaryNominees_name": "Cries & Whispers",
+        "isWinner": false,
+        "Year": 1974
+    },
+    {
+        "primaryNominees_name": "The Exorcist",
+        "isWinner": false,
+        "Year": 1974
+    },
+    {
+        "primaryNominees_name": "The Godfather Part II",
+        "isWinner": true,
+        "Year": 1975
+    },
+    {
+        "primaryNominees_name": "Chinatown",
+        "isWinner": false,
+        "Year": 1975
+    },
+    {
+        "primaryNominees_name": "Lenny",
+        "isWinner": false,
+        "Year": 1975
+    },
+    {
+        "primaryNominees_name": "The Conversation",
+        "isWinner": false,
+        "Year": 1975
+    },
+    {
+        "primaryNominees_name": "The Towering Inferno",
+        "isWinner": false,
+        "Year": 1975
+    },
+    {
+        "primaryNominees_name": "One Flew Over the Cuckoo's Nest",
+        "isWinner": true,
+        "Year": 1976
+    },
+    {
+        "primaryNominees_name": "Barry Lyndon",
+        "isWinner": false,
+        "Year": 1976
+    },
+    {
+        "primaryNominees_name": "Dog Day Afternoon",
+        "isWinner": false,
+        "Year": 1976
+    },
+    {
+        "primaryNominees_name": "Jaws",
+        "isWinner": false,
+        "Year": 1976
+    },
+    {
+        "primaryNominees_name": "Nashville",
+        "isWinner": false,
+        "Year": 1976
+    },
+    {
+        "primaryNominees_name": "Rocky",
+        "isWinner": true,
+        "Year": 1977
+    },
+    {
+        "primaryNominees_name": "All the President's Men",
+        "isWinner": false,
+        "Year": 1977
+    },
+    {
+        "primaryNominees_name": "Bound for Glory",
+        "isWinner": false,
+        "Year": 1977
+    },
+    {
+        "primaryNominees_name": "Network",
+        "isWinner": false,
+        "Year": 1977
+    },
+    {
+        "primaryNominees_name": "Taxi Driver",
+        "isWinner": false,
+        "Year": 1977
+    },
+    {
+        "primaryNominees_name": "Annie Hall",
+        "isWinner": true,
+        "Year": 1978
+    },
+    {
+        "primaryNominees_name": "Julia",
+        "isWinner": false,
+        "Year": 1978
+    },
+    {
+        "primaryNominees_name": "Star Wars: Episode IV - A New Hope",
+        "isWinner": false,
+        "Year": 1978
+    },
+    {
+        "primaryNominees_name": "The Goodbye Girl",
+        "isWinner": false,
+        "Year": 1978
+    },
+    {
+        "primaryNominees_name": "The Turning Point",
+        "isWinner": false,
+        "Year": 1978
+    },
+    {
+        "primaryNominees_name": "The Deer Hunter",
+        "isWinner": true,
+        "Year": 1979
+    },
+    {
+        "primaryNominees_name": "An Unmarried Woman",
+        "isWinner": false,
+        "Year": 1979
+    },
+    {
+        "primaryNominees_name": "Coming Home",
+        "isWinner": false,
+        "Year": 1979
+    },
+    {
+        "primaryNominees_name": "Heaven Can Wait",
+        "isWinner": false,
+        "Year": 1979
+    },
+    {
+        "primaryNominees_name": "Midnight Express",
+        "isWinner": false,
+        "Year": 1979
+    },
+    {
+        "primaryNominees_name": "Kramer vs. Kramer",
+        "isWinner": true,
+        "Year": 1980
+    },
+    {
+        "primaryNominees_name": "All That Jazz",
+        "isWinner": false,
+        "Year": 1980
+    },
+    {
+        "primaryNominees_name": "Apocalypse Now",
+        "isWinner": false,
+        "Year": 1980
+    },
+    {
+        "primaryNominees_name": "Breaking Away",
+        "isWinner": false,
+        "Year": 1980
+    },
+    {
+        "primaryNominees_name": "Norma Rae",
+        "isWinner": false,
+        "Year": 1980
+    },
+    {
+        "primaryNominees_name": "Ordinary People",
+        "isWinner": true,
+        "Year": 1981
+    },
+    {
+        "primaryNominees_name": "Coal Miner's Daughter",
+        "isWinner": false,
+        "Year": 1981
+    },
+    {
+        "primaryNominees_name": "Raging Bull",
+        "isWinner": false,
+        "Year": 1981
+    },
+    {
+        "primaryNominees_name": "Tess",
+        "isWinner": false,
+        "Year": 1981
+    },
+    {
+        "primaryNominees_name": "The Elephant Man",
+        "isWinner": false,
+        "Year": 1981
+    },
+    {
+        "primaryNominees_name": "Chariots of Fire",
+        "isWinner": true,
+        "Year": 1982
+    },
+    {
+        "primaryNominees_name": "Atlantic City",
+        "isWinner": false,
+        "Year": 1982
+    },
+    {
+        "primaryNominees_name": "On Golden Pond",
+        "isWinner": false,
+        "Year": 1982
+    },
+    {
+        "primaryNominees_name": "Raiders of the Lost Ark",
+        "isWinner": false,
+        "Year": 1982
+    },
+    {
+        "primaryNominees_name": "Reds",
+        "isWinner": false,
+        "Year": 1982
+    },
+    {
+        "primaryNominees_name": "Gandhi",
+        "isWinner": true,
+        "Year": 1983
+    },
+    {
+        "primaryNominees_name": "E.T. the Extra-Terrestrial",
+        "isWinner": false,
+        "Year": 1983
+    },
+    {
+        "primaryNominees_name": "Missing",
+        "isWinner": false,
+        "Year": 1983
+    },
+    {
+        "primaryNominees_name": "The Verdict",
+        "isWinner": false,
+        "Year": 1983
+    },
+    {
+        "primaryNominees_name": "Tootsie",
+        "isWinner": false,
+        "Year": 1983
+    },
+    {
+        "primaryNominees_name": "Terms of Endearment",
+        "isWinner": true,
+        "Year": 1984
+    },
+    {
+        "primaryNominees_name": "Tender Mercies",
+        "isWinner": false,
+        "Year": 1984
+    },
+    {
+        "primaryNominees_name": "The Big Chill",
+        "isWinner": false,
+        "Year": 1984
+    },
+    {
+        "primaryNominees_name": "The Dresser",
+        "isWinner": false,
+        "Year": 1984
+    },
+    {
+        "primaryNominees_name": "The Right Stuff",
+        "isWinner": false,
+        "Year": 1984
+    },
+    {
+        "primaryNominees_name": "Amadeus",
+        "isWinner": true,
+        "Year": 1985
+    },
+    {
+        "primaryNominees_name": "A Passage to India",
+        "isWinner": false,
+        "Year": 1985
+    },
+    {
+        "primaryNominees_name": "A Soldier's Story",
+        "isWinner": false,
+        "Year": 1985
+    },
+    {
+        "primaryNominees_name": "Places in the Heart",
+        "isWinner": false,
+        "Year": 1985
+    },
+    {
+        "primaryNominees_name": "The Killing Fields",
+        "isWinner": false,
+        "Year": 1985
+    },
+    {
+        "primaryNominees_name": "Out of Africa",
+        "isWinner": true,
+        "Year": 1986
+    },
+    {
+        "primaryNominees_name": "Kiss of the Spider Woman",
+        "isWinner": false,
+        "Year": 1986
+    },
+    {
+        "primaryNominees_name": "Prizzi's Honor",
+        "isWinner": false,
+        "Year": 1986
+    },
+    {
+        "primaryNominees_name": "The Color Purple",
+        "isWinner": false,
+        "Year": 1986
+    },
+    {
+        "primaryNominees_name": "Witness",
+        "isWinner": false,
+        "Year": 1986
+    },
+    {
+        "primaryNominees_name": "Platoon",
+        "isWinner": true,
+        "Year": 1987
+    },
+    {
+        "primaryNominees_name": "A Room with a View",
+        "isWinner": false,
+        "Year": 1987
+    },
+    {
+        "primaryNominees_name": "Children of a Lesser God",
+        "isWinner": false,
+        "Year": 1987
+    },
+    {
+        "primaryNominees_name": "Hannah and Her Sisters",
+        "isWinner": false,
+        "Year": 1987
+    },
+    {
+        "primaryNominees_name": "The Mission",
+        "isWinner": false,
+        "Year": 1987
+    },
+    {
+        "primaryNominees_name": "The Last Emperor",
+        "isWinner": true,
+        "Year": 1988
+    },
+    {
+        "primaryNominees_name": "Broadcast News",
+        "isWinner": false,
+        "Year": 1988
+    },
+    {
+        "primaryNominees_name": "Fatal Attraction",
+        "isWinner": false,
+        "Year": 1988
+    },
+    {
+        "primaryNominees_name": "Hope and Glory",
+        "isWinner": false,
+        "Year": 1988
+    },
+    {
+        "primaryNominees_name": "Moonstruck",
+        "isWinner": false,
+        "Year": 1988
+    },
+    {
+        "primaryNominees_name": "Rain Man",
+        "isWinner": true,
+        "Year": 1989
+    },
+    {
+        "primaryNominees_name": "Dangerous Liaisons",
+        "isWinner": false,
+        "Year": 1989
+    },
+    {
+        "primaryNominees_name": "Mississippi Burning",
+        "isWinner": false,
+        "Year": 1989
+    },
+    {
+        "primaryNominees_name": "The Accidental Tourist",
+        "isWinner": false,
+        "Year": 1989
+    },
+    {
+        "primaryNominees_name": "Working Girl",
+        "isWinner": false,
+        "Year": 1989
+    },
+    {
+        "primaryNominees_name": "Driving Miss Daisy",
+        "isWinner": true,
+        "Year": 1990
+    },
+    {
+        "primaryNominees_name": "Born on the Fourth of July",
+        "isWinner": false,
+        "Year": 1990
+    },
+    {
+        "primaryNominees_name": "Dead Poets Society",
+        "isWinner": false,
+        "Year": 1990
+    },
+    {
+        "primaryNominees_name": "Field of Dreams",
+        "isWinner": false,
+        "Year": 1990
+    },
+    {
+        "primaryNominees_name": "My Left Foot",
+        "isWinner": false,
+        "Year": 1990
+    },
+    {
+        "primaryNominees_name": "Dances with Wolves",
+        "isWinner": true,
+        "Year": 1991
+    },
+    {
+        "primaryNominees_name": "Awakenings",
+        "isWinner": false,
+        "Year": 1991
+    },
+    {
+        "primaryNominees_name": "Ghost",
+        "isWinner": false,
+        "Year": 1991
+    },
+    {
+        "primaryNominees_name": "Goodfellas",
+        "isWinner": false,
+        "Year": 1991
+    },
+    {
+        "primaryNominees_name": "The Godfather Part III",
+        "isWinner": false,
+        "Year": 1991
+    },
+    {
+        "primaryNominees_name": "The Silence of the Lambs",
+        "isWinner": true,
+        "Year": 1992
+    },
+    {
+        "primaryNominees_name": "Beauty and the Beast",
+        "isWinner": false,
+        "Year": 1992
+    },
+    {
+        "primaryNominees_name": "Bugsy",
+        "isWinner": false,
+        "Year": 1992
+    },
+    {
+        "primaryNominees_name": "JFK",
+        "isWinner": false,
+        "Year": 1992
+    },
+    {
+        "primaryNominees_name": "The Prince of Tides",
+        "isWinner": false,
+        "Year": 1992
+    },
+    {
+        "primaryNominees_name": "Unforgiven",
+        "isWinner": true,
+        "Year": 1993
+    },
+    {
+        "primaryNominees_name": "A Few Good Men",
+        "isWinner": false,
+        "Year": 1993
+    },
+    {
+        "primaryNominees_name": "Howards End",
+        "isWinner": false,
+        "Year": 1993
+    },
+    {
+        "primaryNominees_name": "Scent of a Woman",
+        "isWinner": false,
+        "Year": 1993
+    },
+    {
+        "primaryNominees_name": "The Crying Game",
+        "isWinner": false,
+        "Year": 1993
+    },
+    {
+        "primaryNominees_name": "Schindler's List",
+        "isWinner": true,
+        "Year": 1994
+    },
+    {
+        "primaryNominees_name": "In the Name of the Father",
+        "isWinner": false,
+        "Year": 1994
+    },
+    {
+        "primaryNominees_name": "The Fugitive",
+        "isWinner": false,
+        "Year": 1994
+    },
+    {
+        "primaryNominees_name": "The Piano",
+        "isWinner": false,
+        "Year": 1994
+    },
+    {
+        "primaryNominees_name": "The Remains of the Day",
+        "isWinner": false,
+        "Year": 1994
+    },
+    {
+        "primaryNominees_name": "Forrest Gump",
+        "isWinner": true,
+        "Year": 1995
+    },
+    {
+        "primaryNominees_name": "Four Weddings and a Funeral",
+        "isWinner": false,
+        "Year": 1995
+    },
+    {
+        "primaryNominees_name": "Pulp Fiction",
+        "isWinner": false,
+        "Year": 1995
+    },
+    {
+        "primaryNominees_name": "Quiz Show",
+        "isWinner": false,
+        "Year": 1995
+    },
+    {
+        "primaryNominees_name": "The Shawshank Redemption",
+        "isWinner": false,
+        "Year": 1995
+    },
+    {
+        "primaryNominees_name": "Braveheart",
+        "isWinner": true,
+        "Year": 1996
+    },
+    {
+        "primaryNominees_name": "Apollo 13",
+        "isWinner": false,
+        "Year": 1996
+    },
+    {
+        "primaryNominees_name": "Babe",
+        "isWinner": false,
+        "Year": 1996
+    },
+    {
+        "primaryNominees_name": "Sense and Sensibility",
+        "isWinner": false,
+        "Year": 1996
+    },
+    {
+        "primaryNominees_name": "The Postman",
+        "isWinner": false,
+        "Year": 1996
+    },
+    {
+        "primaryNominees_name": "The English Patient",
+        "isWinner": true,
+        "Year": 1997
+    },
+    {
+        "primaryNominees_name": "Fargo",
+        "isWinner": false,
+        "Year": 1997
+    },
+    {
+        "primaryNominees_name": "Jerry Maguire",
+        "isWinner": false,
+        "Year": 1997
+    },
+    {
+        "primaryNominees_name": "Secrets & Lies",
+        "isWinner": false,
+        "Year": 1997
+    },
+    {
+        "primaryNominees_name": "Shine",
+        "isWinner": false,
+        "Year": 1997
+    },
+    {
+        "primaryNominees_name": "Titanic",
+        "isWinner": true,
+        "Year": 1998
+    },
+    {
+        "primaryNominees_name": "As Good as It Gets",
+        "isWinner": false,
+        "Year": 1998
+    },
+    {
+        "primaryNominees_name": "Good Will Hunting",
+        "isWinner": false,
+        "Year": 1998
+    },
+    {
+        "primaryNominees_name": "L.A. Confidential",
+        "isWinner": false,
+        "Year": 1998
+    },
+    {
+        "primaryNominees_name": "The Full Monty",
+        "isWinner": false,
+        "Year": 1998
+    },
+    {
+        "primaryNominees_name": "Shakespeare in Love",
+        "isWinner": true,
+        "Year": 1999
+    },
+    {
+        "primaryNominees_name": "Elizabeth",
+        "isWinner": false,
+        "Year": 1999
+    },
+    {
+        "primaryNominees_name": "Life Is Beautiful",
+        "isWinner": false,
+        "Year": 1999
+    },
+    {
+        "primaryNominees_name": "Saving Private Ryan",
+        "isWinner": false,
+        "Year": 1999
+    },
+    {
+        "primaryNominees_name": "The Thin Red Line",
+        "isWinner": false,
+        "Year": 1999
+    },
+    {
+        "primaryNominees_name": "American Beauty",
+        "isWinner": true,
+        "Year": 2000
+    },
+    {
+        "primaryNominees_name": "The Cider House Rules",
+        "isWinner": false,
+        "Year": 2000
+    },
+    {
+        "primaryNominees_name": "The Green Mile",
+        "isWinner": false,
+        "Year": 2000
+    },
+    {
+        "primaryNominees_name": "The Insider",
+        "isWinner": false,
+        "Year": 2000
+    },
+    {
+        "primaryNominees_name": "The Sixth Sense",
+        "isWinner": false,
+        "Year": 2000
+    },
+    {
+        "primaryNominees_name": "Gladiator",
+        "isWinner": true,
+        "Year": 2001
+    },
+    {
+        "primaryNominees_name": "Chocolat",
+        "isWinner": false,
+        "Year": 2001
+    },
+    {
+        "primaryNominees_name": "Crouching Tiger, Hidden Dragon",
+        "isWinner": false,
+        "Year": 2001
+    },
+    {
+        "primaryNominees_name": "Erin Brockovich",
+        "isWinner": false,
+        "Year": 2001
+    },
+    {
+        "primaryNominees_name": "Traffic",
+        "isWinner": false,
+        "Year": 2001
+    },
+    {
+        "primaryNominees_name": "A Beautiful Mind",
+        "isWinner": true,
+        "Year": 2002
+    },
+    {
+        "primaryNominees_name": "Gosford Park",
+        "isWinner": false,
+        "Year": 2002
+    },
+    {
+        "primaryNominees_name": "In the Bedroom",
+        "isWinner": false,
+        "Year": 2002
+    },
+    {
+        "primaryNominees_name": "Moulin Rouge!",
+        "isWinner": false,
+        "Year": 2002
+    },
+    {
+        "primaryNominees_name": "The Lord of the Rings: The Fellowship of the Ring",
+        "isWinner": false,
+        "Year": 2002
+    },
+    {
+        "primaryNominees_name": "Chicago",
+        "isWinner": true,
+        "Year": 2003
+    },
+    {
+        "primaryNominees_name": "Gangs of New York",
+        "isWinner": false,
+        "Year": 2003
+    },
+    {
+        "primaryNominees_name": "The Hours",
+        "isWinner": false,
+        "Year": 2003
+    },
+    {
+        "primaryNominees_name": "The Lord of the Rings: The Two Towers",
+        "isWinner": false,
+        "Year": 2003
+    },
+    {
+        "primaryNominees_name": "The Pianist",
+        "isWinner": false,
+        "Year": 2003
+    },
+    {
+        "primaryNominees_name": "The Lord of the Rings: The Return of the King",
+        "isWinner": true,
+        "Year": 2004
+    },
+    {
+        "primaryNominees_name": "Lost in Translation",
+        "isWinner": false,
+        "Year": 2004
+    },
+    {
+        "primaryNominees_name": "Master and Commander: The Far Side of the World",
+        "isWinner": false,
+        "Year": 2004
+    },
+    {
+        "primaryNominees_name": "Mystic River",
+        "isWinner": false,
+        "Year": 2004
+    },
+    {
+        "primaryNominees_name": "Seabiscuit",
+        "isWinner": false,
+        "Year": 2004
+    },
+    {
+        "primaryNominees_name": "Million Dollar Baby",
+        "isWinner": true,
+        "Year": 2005
+    },
+    {
+        "primaryNominees_name": "Finding Neverland",
+        "isWinner": false,
+        "Year": 2005
+    },
+    {
+        "primaryNominees_name": "Ray",
+        "isWinner": false,
+        "Year": 2005
+    },
+    {
+        "primaryNominees_name": "Sideways",
+        "isWinner": false,
+        "Year": 2005
+    },
+    {
+        "primaryNominees_name": "The Aviator",
+        "isWinner": false,
+        "Year": 2005
+    },
+    {
+        "primaryNominees_name": "Crash",
+        "isWinner": true,
+        "Year": 2006
+    },
+    {
+        "primaryNominees_name": "Brokeback Mountain",
+        "isWinner": false,
+        "Year": 2006
+    },
+    {
+        "primaryNominees_name": "Capote",
+        "isWinner": false,
+        "Year": 2006
+    },
+    {
+        "primaryNominees_name": "Good Night, and Good Luck.",
+        "isWinner": false,
+        "Year": 2006
+    },
+    {
+        "primaryNominees_name": "Munich",
+        "isWinner": false,
+        "Year": 2006
+    },
+    {
+        "primaryNominees_name": "The Departed",
+        "isWinner": true,
+        "Year": 2007
+    },
+    {
+        "primaryNominees_name": "Babel",
+        "isWinner": false,
+        "Year": 2007
+    },
+    {
+        "primaryNominees_name": "Letters from Iwo Jima",
+        "isWinner": false,
+        "Year": 2007
+    },
+    {
+        "primaryNominees_name": "Little Miss Sunshine",
+        "isWinner": false,
+        "Year": 2007
+    },
+    {
+        "primaryNominees_name": "The Queen",
+        "isWinner": false,
+        "Year": 2007
+    },
+    {
+        "primaryNominees_name": "No Country for Old Men",
+        "isWinner": true,
+        "Year": 2008
+    },
+    {
+        "primaryNominees_name": "Atonement",
+        "isWinner": false,
+        "Year": 2008
+    },
+    {
+        "primaryNominees_name": "Juno",
+        "isWinner": false,
+        "Year": 2008
+    },
+    {
+        "primaryNominees_name": "Michael Clayton",
+        "isWinner": false,
+        "Year": 2008
+    },
+    {
+        "primaryNominees_name": "There Will Be Blood",
+        "isWinner": false,
+        "Year": 2008
+    },
+    {
+        "primaryNominees_name": "Slumdog Millionaire",
+        "isWinner": true,
+        "Year": 2009
+    },
+    {
+        "primaryNominees_name": "Frost/Nixon",
+        "isWinner": false,
+        "Year": 2009
+    },
+    {
+        "primaryNominees_name": "Milk",
+        "isWinner": false,
+        "Year": 2009
+    },
+    {
+        "primaryNominees_name": "The Curious Case of Benjamin Button",
+        "isWinner": false,
+        "Year": 2009
+    },
+    {
+        "primaryNominees_name": "The Reader",
+        "isWinner": false,
+        "Year": 2009
+    },
+    {
+        "primaryNominees_name": "The Hurt Locker",
+        "isWinner": true,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "A Serious Man",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "An Education",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "Avatar",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "District 9",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "Inglourious Basterds",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "Precious",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "The Blind Side",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "Up",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "Up in the Air",
+        "isWinner": false,
+        "Year": 2010
+    },
+    {
+        "primaryNominees_name": "The King's Speech",
+        "isWinner": true,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "127 Hours",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "Black Swan",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "Inception",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "The Fighter",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "The Kids Are All Right",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "The Social Network",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "Toy Story 3",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "True Grit",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "Winter's Bone",
+        "isWinner": false,
+        "Year": 2011
+    },
+    {
+        "primaryNominees_name": "The Artist",
+        "isWinner": true,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "Extremely Loud & Incredibly Close",
+        "isWinner": false,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "Hugo",
+        "isWinner": false,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "Midnight in Paris",
+        "isWinner": false,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "Moneyball",
+        "isWinner": false,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "The Descendants",
+        "isWinner": false,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "The Help",
+        "isWinner": false,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "The Tree of Life",
+        "isWinner": false,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "War Horse",
+        "isWinner": false,
+        "Year": 2012
+    },
+    {
+        "primaryNominees_name": "Argo",
+        "isWinner": true,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "Amour",
+        "isWinner": false,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "Beasts of the Southern Wild",
+        "isWinner": false,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "Django Unchained",
+        "isWinner": false,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "Les Mis\u00e9rables",
+        "isWinner": false,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "Life of Pi",
+        "isWinner": false,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "Lincoln",
+        "isWinner": false,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "Silver Linings Playbook",
+        "isWinner": false,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "Zero Dark Thirty",
+        "isWinner": false,
+        "Year": 2013
+    },
+    {
+        "primaryNominees_name": "12 Years a Slave",
+        "isWinner": true,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "American Hustle",
+        "isWinner": false,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "Captain Phillips",
+        "isWinner": false,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "Dallas Buyers Club",
+        "isWinner": false,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "Gravity",
+        "isWinner": false,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "Her",
+        "isWinner": false,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "Nebraska",
+        "isWinner": false,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "Philomena",
+        "isWinner": false,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "The Wolf of Wall Street",
+        "isWinner": false,
+        "Year": 2014
+    },
+    {
+        "primaryNominees_name": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "isWinner": true,
+        "Year": 2015
+    },
+    {
+        "primaryNominees_name": "American Sniper",
+        "isWinner": false,
+        "Year": 2015
+    },
+    {
+        "primaryNominees_name": "Boyhood",
+        "isWinner": false,
+        "Year": 2015
+    },
+    {
+        "primaryNominees_name": "Selma",
+        "isWinner": false,
+        "Year": 2015
+    },
+    {
+        "primaryNominees_name": "The Grand Budapest Hotel",
+        "isWinner": false,
+        "Year": 2015
+    },
+    {
+        "primaryNominees_name": "The Imitation Game",
+        "isWinner": false,
+        "Year": 2015
+    },
+    {
+        "primaryNominees_name": "The Theory of Everything",
+        "isWinner": false,
+        "Year": 2015
+    },
+    {
+        "primaryNominees_name": "Whiplash",
+        "isWinner": false,
+        "Year": 2015
+    },
+    {
+        "primaryNominees_name": "Spotlight",
+        "isWinner": true,
+        "Year": 2016
+    },
+    {
+        "primaryNominees_name": "Bridge of Spies",
+        "isWinner": false,
+        "Year": 2016
+    },
+    {
+        "primaryNominees_name": "Brooklyn",
+        "isWinner": false,
+        "Year": 2016
+    },
+    {
+        "primaryNominees_name": "Mad Max: Fury Road",
+        "isWinner": false,
+        "Year": 2016
+    },
+    {
+        "primaryNominees_name": "Room",
+        "isWinner": false,
+        "Year": 2016
+    },
+    {
+        "primaryNominees_name": "The Big Short",
+        "isWinner": false,
+        "Year": 2016
+    },
+    {
+        "primaryNominees_name": "The Martian",
+        "isWinner": false,
+        "Year": 2016
+    },
+    {
+        "primaryNominees_name": "The Revenant",
+        "isWinner": false,
+        "Year": 2016
+    },
+    {
+        "primaryNominees_name": "Moonlight",
+        "isWinner": true,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "Arrival",
+        "isWinner": false,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "Fences",
+        "isWinner": false,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "Hacksaw Ridge",
+        "isWinner": false,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "Hell or High Water",
+        "isWinner": false,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "Hidden Figures",
+        "isWinner": false,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "La La Land",
+        "isWinner": false,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "Lion",
+        "isWinner": false,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "Manchester by the Sea",
+        "isWinner": false,
+        "Year": 2017
+    },
+    {
+        "primaryNominees_name": "The Shape of Water",
+        "isWinner": true,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "Call Me by Your Name",
+        "isWinner": false,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "Darkest Hour",
+        "isWinner": false,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "Dunkirk",
+        "isWinner": false,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "Get Out",
+        "isWinner": false,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "Lady Bird",
+        "isWinner": false,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "Phantom Thread",
+        "isWinner": false,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "The Post",
+        "isWinner": false,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "Three Billboards Outside Ebbing, Missouri",
+        "isWinner": false,
+        "Year": 2018
+    },
+    {
+        "primaryNominees_name": "Green Book",
+        "isWinner": true,
+        "Year": 2019
+    },
+    {
+        "primaryNominees_name": "A Star Is Born",
+        "isWinner": false,
+        "Year": 2019
+    },
+    {
+        "primaryNominees_name": "BlacKkKlansman",
+        "isWinner": false,
+        "Year": 2019
+    },
+    {
+        "primaryNominees_name": "Black Panther",
+        "isWinner": false,
+        "Year": 2019
+    },
+    {
+        "primaryNominees_name": "Bohemian Rhapsody",
+        "isWinner": false,
+        "Year": 2019
+    },
+    {
+        "primaryNominees_name": "Roma",
+        "isWinner": false,
+        "Year": 2019
+    },
+    {
+        "primaryNominees_name": "The Favourite",
+        "isWinner": false,
+        "Year": 2019
+    },
+    {
+        "primaryNominees_name": "Vice",
+        "isWinner": false,
+        "Year": 2019
+    },
+    {
+        "primaryNominees_name": "Parasite",
+        "isWinner": true,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "1917",
+        "isWinner": false,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "Ford v Ferrari",
+        "isWinner": false,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "Jojo Rabbit",
+        "isWinner": false,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "Joker",
+        "isWinner": false,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "Little Women",
+        "isWinner": false,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "Marriage Story",
+        "isWinner": false,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "Once Upon a Time... in Hollywood",
+        "isWinner": false,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "The Irishman",
+        "isWinner": false,
+        "Year": 2020
+    },
+    {
+        "primaryNominees_name": "Nomadland",
+        "isWinner": true,
+        "Year": 2021
+    },
+    {
+        "primaryNominees_name": "Judas and the Black Messiah",
+        "isWinner": false,
+        "Year": 2021
+    },
+    {
+        "primaryNominees_name": "Mank",
+        "isWinner": false,
+        "Year": 2021
+    },
+    {
+        "primaryNominees_name": "Minari",
+        "isWinner": false,
+        "Year": 2021
+    },
+    {
+        "primaryNominees_name": "Promising Young Woman",
+        "isWinner": false,
+        "Year": 2021
+    },
+    {
+        "primaryNominees_name": "Sound of Metal",
+        "isWinner": false,
+        "Year": 2021
+    },
+    {
+        "primaryNominees_name": "The Father",
+        "isWinner": false,
+        "Year": 2021
+    },
+    {
+        "primaryNominees_name": "The Trial of the Chicago 7",
+        "isWinner": false,
+        "Year": 2021
+    },
+    {
+        "primaryNominees_name": "CODA",
+        "isWinner": true,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "Belfast",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "Don't Look Up",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "Drive My Car",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "Dune: Part One",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "King Richard",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "Licorice Pizza",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "Nightmare Alley",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "The Power of the Dog",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "West Side Story",
+        "isWinner": false,
+        "Year": 2022
+    },
+    {
+        "primaryNominees_name": "Everything Everywhere All at Once",
+        "isWinner": true,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "All Quiet on the Western Front",
+        "isWinner": false,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "Avatar: The Way of Water",
+        "isWinner": false,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "Elvis",
+        "isWinner": false,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "The Banshees of Inisherin",
+        "isWinner": false,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "The Fabelmans",
+        "isWinner": false,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "Top Gun: Maverick",
+        "isWinner": false,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "Triangle of Sadness",
+        "isWinner": false,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "T\u00e1r",
+        "isWinner": false,
+        "Year": 2023
+    },
+    {
+        "primaryNominees_name": "Women Talking",
+        "isWinner": false,
+        "Year": 2023
+    }
+]
